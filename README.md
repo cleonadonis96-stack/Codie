@@ -1,2 +1,1 @@
-# Codie
-Designing the future 
+
