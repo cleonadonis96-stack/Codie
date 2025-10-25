@@ -1,6 +1,6 @@
 Purpose of the Repository
 
-This repository was created as part of Tutorial 4 for the course. Its purpose is to demonstrate basic Git and GitHub operations such as creating branches, committing files, collaborating with a partner, and using pull requests.
+This repository was created as part of Tutorial 4 for the course ITE1100. Its purpose is to demonstrate basic Git and GitHub operations such as creating branches, committing files, collaborating with a partner, and using pull requests.
 
 Steps Followed
 
@@ -26,6 +26,6 @@ Merged the branch into the main branch after approval.
 
 Collaborators
 
-Aaliyah Trotz
-
 Cleon Adonis
+
+Aaliyah Trotz
